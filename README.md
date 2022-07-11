@@ -49,6 +49,10 @@ O usuário pode utilizar qualquer um dos seguintes bancos:
 
 - npm run migrate
 
+#### Caso queira popular o banco:
+
+- npm run dev:seed
+
 #### Iniciar a aplicação no modo desenvolvimento:
 
 - npm run dev
